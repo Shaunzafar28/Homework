@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Shaun\Desktop\2019-10-04-Homework\2019-10-04-Homework\main.cpp(12,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shaun\Desktop\2019-10-04-Homework\2019-10-04-Homework\main.cpp(13,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shaun\Desktop\2019-10-04-Homework\2019-10-04-Homework\main.cpp(19,42): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shaun\Desktop\2019-10-04-Homework\2019-10-04-Homework\main.cpp(20,32): warning C4305: '=': truncation from 'double' to 'float'
+  2019-10-04-Homework.vcxproj -> C:\Users\Shaun\Desktop\2019-10-04-Homework\Debug\2019-10-04-Homework.exe
